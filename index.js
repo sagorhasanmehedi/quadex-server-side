@@ -198,6 +198,3 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log("assignment 12 server runing in port :", port);
 });
-
-
-server running
